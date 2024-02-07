@@ -9,8 +9,8 @@ export const App = () => {
     <Router>
       <Header />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/map" element={<MapContainer />} />
+        <Route path="/viso__task-test/" element={<Home />} />
+        <Route path="/viso__task-test/map" element={<MapContainer />} />
       </Routes>
     </Router>
   )

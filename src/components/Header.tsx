@@ -13,11 +13,11 @@ export const Header: React.FC = () => {
           </Link>
           <div id="navbarBasicExample" className="navbar-menu">
             <div className="navbar-start">
-              <Link className="navbar-item" to="/">
+              <Link className="navbar-item" to="/viso__task-test/">
                 Home
               </Link>
 
-              <Link className="navbar-item" to="/map">
+              <Link className="navbar-item" to="/viso__task-test/map">
                 Map
               </Link>
             </div>
